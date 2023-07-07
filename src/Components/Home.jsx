@@ -3,7 +3,9 @@ import "./Home.scss"
 
 const Home=() =>{
     return(
-        <div>Home</div>
+        <section className="home">
+            <div className="banner"></div>
+        </section>
     )
 }
 export default Home
