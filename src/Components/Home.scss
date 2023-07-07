@@ -4,11 +4,12 @@
 }
 
 .row{
+    padding: 1 rem;
     > div{
         display:flex;
         justify-content: space-evenly;
         overflow-x: auto;
-        padding: 1 rem;
+        
     }
 
 }
