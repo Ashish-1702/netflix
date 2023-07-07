@@ -6,7 +6,10 @@
 .row{
     padding: 1 rem;
     background-color: rgb(16,16,16);
-    
+    >h2{
+        color: white;
+    }
+
     > div{
         display:flex;
         justify-content: space-evenly;
